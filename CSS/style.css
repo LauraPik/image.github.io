@@ -1,0 +1,44 @@
+.antraste{
+    background-image: url(..//CSS/img/antraste.jpg);
+    text-align: center;
+    color: hsl(0, 10%, 94%);
+}
+.Naujiena1 img{
+    Float: center;
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+}
+.Naujiena2 img{
+    Float: center;
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+}
+.Naujiena1{
+    text-align: center;
+    padding: 22%;
+    margin-top: -50%;
+}
+.Naujiena2{
+    text-align: center;
+    padding: 22%;
+    margin-top: -33%;
+}
+.pastraipa1{
+    margin: 34%;
+    padding-bottom:9%;
+    margin-top: -1%;
+    text-align: right;
+}
+.container{
+    padding-bottom: 10%;
+}
+.pagrindinis{
+    margin-top: -20%;
+}
+.mygtukas1{
+    border: #1d1c1c;
+}
+
+
